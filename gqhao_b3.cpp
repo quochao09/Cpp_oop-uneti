@@ -1,3 +1,11 @@
+//Bài 3: Để quản lý hàng hóa, mỗi một mặt hàng được lưu trữ các thông tin: mã hàng (char[8]), tên hàng (char[30]), số lượng (int), đơn giá (float), thành tiền (float). 
+//Hãy lập chương trình thực hiện các yêu cầu sau:
+//-  Khai báo kiểu dữ liệu cấu trúc lưu trữ thông tin cho một mặt hàng
+//-  Nhập vào từ bàn phím một danh sách n mặt hàng (không nhập trường Thành tiền).
+//-  Viết hàm tính thành tiền cho các mặt hàng biết
+//-  Thành tiền = số lượng * đơn giá
+//-  Hiển thị thông tin những mặt hàng có đơn giá lớn hơn 50.
+
 #include <iostream>
 #include <cstring>
 #include <iomanip>
