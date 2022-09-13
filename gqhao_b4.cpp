@@ -1,3 +1,9 @@
+//Bài 4: Tạo cấu trúc Hocsinh gồm các thành phần sau :Mã số (ms Kiểu chuỗi 7 ký tự), Họ và tên (ht kiểu chuỗi 30 ký tự), Quê quán (qq kiểu chuỗi 30 ký tự), 
+//tổng điểm (td kiểu float). Sau đó viết chương trình gồm các chức năng sau:
+//-  Nhập danh sách gồm n học sinh trong đó n nguyên dương được nhập vào từ bàn phím.
+//-  In ra danh sách lớp theo thứ tự giảm dần của tổng điểm
+//-  In ra danh sách các học sinh có quê tai Nam Định
+
 #include <iostream>
 #include <cstring>
 #include <iomanip>
